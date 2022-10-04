@@ -258,10 +258,11 @@ blockquote:before {
   font-size: 1.4rem;
 }
 .copyright p {
-  font-size: 0.7rem;
+  font-size: 1rem;
 }
 .policies {
   display: flex;
+  font-size: 1rem;
   flex-direction: column;
   color: black;
 }
