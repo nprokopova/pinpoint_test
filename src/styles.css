@@ -265,14 +265,14 @@ blockquote:before {
 }
 .copyright h2 {
   margin-bottom: 50px;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 .copyright p {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 .policies {
   display: flex;
-  font-size: 2rem;
+  font-size: 1.2rem;
   flex-direction: column;
   color: black;
 }
@@ -431,6 +431,15 @@ blockquote:before {
   .navbar-logo {
     width: 150px;
     height: auto;
+  }
+  .copyright h2 {
+    font-size: 2.5rem;
+  }
+  .copyright p {
+    font-size: 2rem;
+  }
+  .policies {
+    font-size: 2rem;
   }
   .footer {
     font-size: 1.8rem;
