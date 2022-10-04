@@ -7,7 +7,7 @@ window.onload = function () {
       dropdownMenu.style.display =
         dropdownMenu.style.display === "block" ? "none" : "block";
       navbar.style.height =
-        dropdownMenu.style.display === "block" ? "490px" : "auto";
+        dropdownMenu.style.display === "block" ? "510px" : "auto";
     }
   };
 
