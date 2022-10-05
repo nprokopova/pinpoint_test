@@ -1,7 +1,3 @@
-:root {
-  font-size: 62.5%;
-}
-
 body {
   margin: 0px;
 }
@@ -258,7 +254,7 @@ blockquote:before {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 230px;
+  width: 350px;
   margin: 20px;
   border-radius: 20px;
   text-align: center;
