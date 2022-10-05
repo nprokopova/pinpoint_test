@@ -16,7 +16,7 @@ main {
   margin: 40px auto;
 }
 .navbar {
-  max-width: 1400px;
+  max-width: 1900px;
   width: 100%;
   margin: auto;
   padding: 10px 0px;
@@ -114,14 +114,15 @@ main {
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 0px;
-  max-height: 710px;
+  max-height: 800px;
   overflow: hidden;
 }
 .section-image-overlay-center {
   position: relative;
+  top: -140px;
 }
 .section-image-overlay-center img {
-  max-width: 1400px;
+  max-width: 1900px;
   width: 100%;
   height: auto;
 }
@@ -262,7 +263,7 @@ blockquote:before {
 }
 .legal {
   box-sizing: border-box;
-  max-width: 1100px;
+  max-width: 1280px;
   width: 100%;
 }
 .copyright h2 {
@@ -289,7 +290,7 @@ blockquote:before {
   color: #80888a;
   font-weight: 900;
   font-size: 0.8rem;
-  max-width: 1120px;
+  max-width: 1300px;
   width: 100%;
   margin: auto;
 }
@@ -373,6 +374,9 @@ blockquote:before {
   }
   .section-image-overlay-center img {
     transform: scale(2);
+  }
+  .section-image-overlay-center {
+    top: 0px;
   }
   .section-image-overlay {
     width: 100%;
